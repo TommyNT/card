@@ -1,0 +1,8 @@
+<style type="text/css">
+#menu {float:left}
+#menu a {width:150px; display:block; text-decoration:none;
+background-color:cyan; color:blac; padding:1px;
+border-left:3px solid cyan; margin-top:3px}
+#menu a:hover {background-color:#ccc; color:#F0000;
+border-style:inset; border-left:3px solid #F0000;}
+</style>
